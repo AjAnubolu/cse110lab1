@@ -17,7 +17,7 @@ Hi! I'm **Ajay**, a sophomore Computer Science student at **UC San Diego**. I'm 
 
 Outside of classes I enjoy going to the gym, making open-source contributions, eating nice food, travelling, and studying foreign(and coding) languages!
 
-![UC San Diego](https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/University_of_California%2C_San_Diego_seal.svg/240px-University_of_California%2C_San_Diego_seal.svg.png)
+![UC San Diego](![UC San Diego](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/UC_San_Diego_wordmark.svg/320px-UC_San_Diego_wordmark.svg.png))
 
 ---
 
