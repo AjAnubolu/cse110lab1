@@ -1,0 +1,5 @@
+theme: minima
+title: Ajay's User Page
+description: CS @ UCSD (MLSys)
+minima:
+  skin: dark
