@@ -94,7 +94,7 @@ generate(prompt="a cat walking in the rain", resolution="720p")
 
 ## Relative Links
 
-- [Profile picture](./headshot.jpeg)
+- [Profile picture](headshot.jpeg)
 
 ---
 
