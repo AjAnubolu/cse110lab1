@@ -17,8 +17,6 @@ Hi! I'm **Ajay**, a sophomore Computer Science student at **UC San Diego**. I'm 
 
 Outside of classes I enjoy going to the gym, making open-source contributions, eating nice food, travelling, and studying foreign(and coding) languages!
 
-![UC San Diego](![UC San Diego](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/UC_San_Diego_wordmark.svg/320px-UC_San_Diego_wordmark.svg.png))
-
 ---
 
 ## Skills & Tech Stack
@@ -100,8 +98,8 @@ generate(prompt="a cat walking in the rain", resolution="720p")
 
 ## Contact
 
-- **GitHub:** [github.com/AjAnubolu](https://github.com)
-- **LinkedIn:** [https://www.linkedin.com/in/ajay-anubolu-521722330/](https://linkedin.com)
+- **GitHub:** [github.com/AjAnubolu](https://github.com/AjAnubolu)
+- **LinkedIn:** [https://www.linkedin.com/](https://linkedin.com/in/ajay-anubolu-521722330/)
 
 ---
 
