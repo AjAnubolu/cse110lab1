@@ -1,4 +1,6 @@
-# Ajay's User Page
+---
+layout: home
+---
 
 ## Table of Contents
 
