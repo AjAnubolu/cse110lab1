@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-
+![me](headshot.jpeg)
 ## Table of Contents
 
 - [About Me](#about-me)
